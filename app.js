@@ -1,15 +1,15 @@
 const inputWindow = document.querySelector('input');
 
 const allCards = [
-    {name: "1", example: "Üks", keycode: "49", src: "sounds/1.wav"},
-    {name: "2", example: "Kaks", keycode: "50", src: "sounds/2.wav"},
-    {name: "3", example: "Kolm", keycode: "51", src: "sounds/3.wav"},
-    {name: "4", example: "Neli", keycode: "52", src: "sounds/4.wav"},
-    {name: "5", example: "Viis", keycode: "53", src: "sounds/5.wav"},
-    {name: "6", example: "Kuus", keycode: "54", src: "sounds/6.wav"},
-    {name: "7", example: "Seitse", keycode: "55", src: "sounds/7.wav"},
-    {name: "8", example: "Kaheksa", keycode: "56", src: "sounds/8.wav"},
-    {name: "9", example: "Üheksa", keycode: "57", src: "sounds/9.wav"},
+    {name: "1", example: "ÜKS", keycode: "49", src: "sounds/1.wav"},
+    {name: "2", example: "KAKS", keycode: "50", src: "sounds/2.wav"},
+    {name: "3", example: "KOLM", keycode: "51", src: "sounds/3.wav"},
+    {name: "4", example: "NELI", keycode: "52", src: "sounds/4.wav"},
+    {name: "5", example: "VIIS", keycode: "53", src: "sounds/5.wav"},
+    {name: "6", example: "KUUS", keycode: "54", src: "sounds/6.wav"},
+    {name: "7", example: "SEITSE", keycode: "55", src: "sounds/7.wav"},
+    {name: "8", example: "KAHEKSA", keycode: "56", src: "sounds/8.wav"},
+    {name: "9", example: "ÜHEKSA", keycode: "57", src: "sounds/9.wav"},
 ];
 const createLetterCards = (letter) => {
  return `<div class="key" id=${letter.keycode}>
