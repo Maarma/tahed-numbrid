@@ -6,10 +6,10 @@ const allCards = [
     {name: "E", example: "elevant", keycode: "69", src: "sounds/E.wav"},
     {name: "G", example: "gorilla", keycode: "71", src: "sounds/G.wav"},
     {name: "H", example: "hobune", keycode: "72", src: "sounds/H.wav"},
-    {name: "K", example: "koala", keycode: "75", src: "sounds/K.wav"},
+    {name: "K", example: "koaala", keycode: "75", src: "sounds/K.wav"},
     {name: "L", example: "laama", keycode: "76", src: "sounds/L.wav"},
     {name: "P", example: "pingviin", keycode: "80", src: "sounds/P.wav"},
-    {name: "R", example: "raccoon", keycode: "82", src: "sounds/R.wav"},
+    {name: "R", example: "rebane", keycode: "82", src: "sounds/R.wav"},
     {name: "Z", example: "zebra", keycode: "90", src: "sounds/Z.wav"},
 ];
 
