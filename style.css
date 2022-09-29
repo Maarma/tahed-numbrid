@@ -3,13 +3,13 @@ html {
     background-image: -webkit-gradient(linear, 50% 100%, 50% 0%, color-stop(0%,#4DB3DD), color-stop(100%,#52B7E1) );
     background-size: cover;
   }
-  
+
   body,html {
     margin: 0;
     padding: 0;
     font-family: sans-serif;
   }
-  
+
 h1,h2 {
   text-align: center;
   color: rgb(4, 47, 122);
@@ -19,7 +19,7 @@ input {
   margin: 12px auto;
   display: block;
   height: 2.5rem;
-  width: 250px;
+  width: 251px;
   border-radius: .5rem;
 }
 
@@ -31,7 +31,7 @@ input {
     justify-content: center;
     margin-bottom: 5px;
   }
-  
+
   .wrapper {
     flex: 1;
     align-items: center;
@@ -57,7 +57,7 @@ input {
     background: rgba(16,90,201);
     text-shadow: 0 0 .5rem black;
   }
-  
+
   .key:active {
     transform: scale(0.97);
     transition: transform .2s;
@@ -75,12 +75,12 @@ input {
     border-color: #ffc600;
     box-shadow: 0 0 1rem #ffc600;
   }
-  
+
   kbd {
     display: block;
     font-size: 4rem;
   }
-  
+
   .sound {
     font-size: 1.2rem;
     text-transform: uppercase;
