@@ -5,11 +5,12 @@ body {
     -moz-transform: translateX(-50%) translateY(-50%);
     -webkit-transform: translateX(-50%) translateY(-50%);
     transform: translateX(-50%) translateY(-50%);
+    background-color: #5DD2F8;
 }
 .content {
     background-color: #5DD2F8;
     padding: 30px;
-    border: solid black 1px;
+    border: solid white 2px;
     border-radius: 10px;
 }
 .birb   {

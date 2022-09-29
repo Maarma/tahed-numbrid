@@ -1,6 +1,6 @@
 html {
     font-size: 10px;
-    background-image: -webkit-gradient(linear, 50% 100%, 50% 0%, color-stop(0%,#4DB3DD), color-stop(100%,#52B7E1) );
+    background-color: #e32636;
     background-size: cover;
   }
 
@@ -54,7 +54,7 @@ input {
     max-width: 12rem;
     text-align: center;
     color: white;
-    background: rgba(16,90,201);
+    background: #880015;
     text-shadow: 0 0 .5rem black;
   }
 
