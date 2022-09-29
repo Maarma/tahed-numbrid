@@ -1,4 +1,4 @@
-# Tahed-numbrid
+# Tahed/numbrid õpetus
 
 ## Eesmärk
 
