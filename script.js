@@ -2,10 +2,9 @@ const inputWindow = document.querySelector('input');
 
 const allCards = [
     {name: "A", example: "alligator", keycode: "65", src: "sounds/A.wav"},
-    {name: "B", example: "bear", keycode: "66", src: "sounds/B.wav"},
-    {name: "C", example: "cat", keycode: "67", src: "sounds/C.wav"},
+    {name: "C", example: "Carlos", keycode: "67", src: "sounds/C.wav"},
     {name: "D", example: "dog", keycode: "68", src: "sounds/D.wav"},
-    {name: "E", example: "elephant", keycode: "69", src: "sounds/E.wav"},
+    {name: "E", example: "elevant", keycode: "69", src: "sounds/E.wav"},
     {name: "F", example: "frog", keycode: "70", src: "sounds/F.wav"},
     {name: "G", example: "gorilla", keycode: "71", src: "sounds/G.wav"},
     {name: "H", example: "horse", keycode: "72", src: "sounds/H.wav"},
