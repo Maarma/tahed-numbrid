@@ -66,6 +66,8 @@ window.addEventListener("keydown", function (e) {
   if (document.activeElement == inputWindow) return;
   const audio = document.querySelector(`audio[data-key="${e.keyCode}"]`);
   const key = document.getElementById(`${e.keyCode}`);
+  const keys = document.querySelectorAll(".key");
+  keys.forEach((key) => key.addEventListener("transitionend", removeTransition));
   if (!audio) return;
   audio.currentTime = 0;
   key.classList.add("playing");
