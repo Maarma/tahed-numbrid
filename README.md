@@ -44,3 +44,9 @@ Kadi Remmelgas-Luka
 * tiimitöö
 * Figma, koodi kirjutamise jälgimine
 * jäin rahule, veel rohkem oleksin soovinud koodimisse süveneda
+
+Karel Maarma
+* git repo
+* helide salvestamine ja töötlemine studio onega
+* jälgisin figmat ja javascripti koodi kirjutamist
+* enda ülesandega jäin rahule
