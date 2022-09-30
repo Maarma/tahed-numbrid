@@ -36,6 +36,6 @@ Sander Vilter
 * jäin rahule
 
 Sandra Mõttus
-*tiimitöö, projektitöö olemus
-*javascript, pilditöötlus, Figma, jälgisin koodi kirjutamist
-*jäin enda ülesannetega rahule
+* tiimitöö, projektitöö olemus
+* javascript, pilditöötlus, Figma, jälgisin koodi kirjutamist
+* jäin enda ülesannetega rahule
