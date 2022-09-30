@@ -34,3 +34,8 @@ Sander Vilter
 * tiimitöö ja suhtlemine
 * javascripti ja canvase kohta sain uut teada 
 * jäin rahule
+
+Sandra Mõttus
+*tiimitöö, projektitöö olemus
+*javascript, pilditöötlus, Figma, jälgisin koodi kirjutamist
+*jäin enda ülesannetega rahule
