@@ -36,6 +36,7 @@ const init = () => {
   canvas.style.backgroundColor = "#ffffff";
   backgroundButton.value = "#ffffff";
   penButton.value = context.strokeStyle;
+  
 };
 
 //Detect touch device
@@ -51,6 +52,7 @@ const is_touch_device = () => {
 
 //Exact x and y position of mouse/touch
 const getXY = (e) => {
+  
   mouseX = (!is_touch_device() ? e.pageX : e.touches?.[0].pageX) - rectLeft;
   mouseY = (!is_touch_device() ? e.pageY : e.touches?.[0].pageY) - rectTop;
 };
