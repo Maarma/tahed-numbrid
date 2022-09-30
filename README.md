@@ -27,7 +27,7 @@ Kaspar Kaasik
 
 Carlos Tuuling
 * tiimitöö 
-* javascript
+* javascript, html, cssiga sain rohkem kogemusi
 * jäin enda ülesannetega rahule
 
 Sander Vilter
