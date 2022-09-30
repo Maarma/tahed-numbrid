@@ -13,3 +13,9 @@ projekti eesmärk on luua interaktiivne õppevahend tähtede ja numbrite õppimi
 - Üks pehme oskus, mida õppisin ja endas arendasin
 - Üks tehniline oskus, mida õppisin ja endas arendasin
 - Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
+
+
+Liisi Kuusküll
+* tiimitöö, figma
+* tuletasin meelde figmat, jälgisin kuidas koodi kirjutati
+* jäin enda ülesandega rahule
