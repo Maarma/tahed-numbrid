@@ -28,7 +28,7 @@ Kaspar Kaasik
 Carlos Tuuling
 * tiimitöö 
 * javascript
-* jäin endaga rahule
+* jäin enda ülesannetega rahule
 
 Sander Vilter
 * tiimitöö ja suhtlemine
@@ -38,4 +38,4 @@ Sander Vilter
 Sandra Mõttus
 * tiimitöö, projektitöö olemus
 * javascript, pilditöötlus, Figma, jälgisin koodi kirjutamist
-* jäin enda ülesannetega rahule
+* jäin enda ülesannetega rahule, oleks soovinud rohkem osata panustada
