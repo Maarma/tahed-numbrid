@@ -21,6 +21,11 @@ Liisi Kuusküll
 * jäin enda ülesandega rahule
 
 Kaspar Kaasik
-* figmaga tutvumine, tiimitöö
-* 
+* tiimitöö
+* figma kasutamine, koodi jälgime
 * jäin enda ülesandega rahule
+
+Carlos Tuuling
+* tiimitöö 
+* javascript
+* jäin endaga rahule
