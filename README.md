@@ -29,3 +29,8 @@ Carlos Tuuling
 * tiimitöö 
 * javascript
 * jäin endaga rahule
+
+Sander Vilter
+* tiimitöö ja suhtlemine
+* javascripti ja canvase kohta sain uut teada 
+* jäin rahule
