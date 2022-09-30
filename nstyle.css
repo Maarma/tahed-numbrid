@@ -13,6 +13,7 @@ html {
 h1,h2 {
   text-align: center;
   color: white;
+  font-family: Tahoma, sans-serif;
 }
 
 input {
@@ -56,6 +57,7 @@ input {
     color: white;
     background: #880015;
     text-shadow: 0 0 .5rem black;
+    cursor: pointer;
   }
 
   .key:active {
