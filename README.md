@@ -39,3 +39,8 @@ Sandra Mõttus
 * tiimitöö, projektitöö olemus
 * javascript, pilditöötlus, Figma, jälgisin koodi kirjutamist
 * jäin enda ülesannetega rahule, oleks soovinud rohkem osata panustada
+
+Kadi Remmelgas-Luka
+* tiimitöö
+* Figma, koodi kirjutamise jälgimine
+* jäin rahule, veel rohkem oleksin soovinud koodimisse süveneda
