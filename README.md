@@ -19,3 +19,8 @@ Liisi Kuusküll
 * tiimitöö, figma
 * tuletasin meelde figmat, jälgisin kuidas koodi kirjutati
 * jäin enda ülesandega rahule
+
+Kaspar Kaasik
+* figmaga tutvumine, tiimitöö
+* 
+* jäin enda ülesandega rahule
