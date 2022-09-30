@@ -13,3 +13,29 @@ projekti eesmärk on luua interaktiivne õppevahend tähtede ja numbrite õppimi
 - Üks pehme oskus, mida õppisin ja endas arendasin
 - Üks tehniline oskus, mida õppisin ja endas arendasin
 - Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
+
+
+Liisi Kuusküll
+* tiimitöö, figma
+* tuletasin meelde figmat, jälgisin kuidas koodi kirjutati
+* jäin enda ülesandega rahule
+
+Kaspar Kaasik
+* tiimitöö
+* figma kasutamine, koodi jälgime
+* jäin enda ülesandega rahule
+
+Carlos Tuuling
+* tiimitöö 
+* javascript
+* jäin enda ülesannetega rahule
+
+Sander Vilter
+* tiimitöö ja suhtlemine
+* javascripti ja canvase kohta sain uut teada 
+* jäin rahule
+
+Sandra Mõttus
+* tiimitöö, projektitöö olemus
+* javascript, pilditöötlus, Figma, jälgisin koodi kirjutamist
+* jäin enda ülesannetega rahule, oleks soovinud rohkem osata panustada
